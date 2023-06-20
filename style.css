@@ -1,0 +1,49 @@
+table,th,td{
+	border: 3px solid white;
+	margin:auto;
+	width:50%;
+	border-collapse:collapse;
+}
+body{
+	color:white;
+	background-color:#081418;
+}
+.ns{
+	font-style:normal;
+}
+.is{
+	font-style:italic;
+}
+.os{
+	font-style:oblique;
+}
+.nw{
+	font-weight:normal;
+}
+.bw{
+	font-weight:bold;
+}
+.weight{
+	font-weight:1000;
+}
+.lw{
+	font-weight:lighter;
+}
+.nv{
+	font-variant:normal;
+}
+.scaps{
+	font-variant:small-caps;
+}
+.ps{
+	font-size:20px;
+}
+.ls{
+	font-size:extra-large;
+}
+.percents{
+	font-size:150%;
+}
+.fsh{
+	font:oblique small-caps bold 30px garamond,serif;
+}
